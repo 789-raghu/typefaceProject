@@ -63,10 +63,10 @@ Before you begin, ensure you have the following installed on your system:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/personal-finance-assistant.git
+git clone https://github.com/yourusername/TypefaceProject.git
 
 # Navigate to the project directory
-cd personal-finance-assistant
+cd TypefaceProject
 ```
 
 ### Step 2: Backend Setup
