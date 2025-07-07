@@ -1,7 +1,7 @@
 ﻿# 💰 Personal Finance Assistant
 
 A comprehensive full-stack web application for managing personal finances with AI-powered features. Track income, expenses, and get intelligent insights about your spending patterns.
-## Demo Video Link :https://drive.google.com/file/d/172JIeDBnuJoUywuyyCjUVd1o6TnOANmi/view?usp=sharing
+## Demo Video Link :https://drive.google.com/drive/folders/1bpOcYbh9eOdzXkGclQuYLiXMSc7XD7uj?usp=sharing
 
 ## 🌟 Features
 
